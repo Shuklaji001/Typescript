@@ -1,4 +1,4 @@
-It is an enhanced version of JS aka suerset of JS
+It is an enhanced version of JS aka superset of JS
 - TS can't run on the browser directly 
 - TS compiler convert the code from TS to JS
 
